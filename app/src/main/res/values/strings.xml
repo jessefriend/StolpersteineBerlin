@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SplashScreenTutorial</string>
+    <string name="splash_description">ThreeSquares</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="intro_one">A Stolperstein ("stumbling block") is a ten-centimetre concrete cube bearing a brass plate inscribed with the name and life dates of victims of Nazi extermination or persecution. -Wikipedia
+    </string>
+
+    <string name="around_europe">By the end of 2016, Gunter Demnig and his co-workers had installed about 60,000 stones in more than 1,200 towns and cities throughout Europe
+    </string>
+
+    <string name="scale_berlin">SCALE BERLIN</string>
+
+    <string name="steine_details">DETAILS ABOUT WHAT IS WRITTEN \n ON \n STOLPERSTEINE</string>
+    <string name="title_activity_scale_berlin">ScaleBerlin</string>
+
+    <string name="right_arrow">›</string>
+    <string name="left_arrow">‹</string>
+
+    <string name="map">Go to map&#10;⌄</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>
