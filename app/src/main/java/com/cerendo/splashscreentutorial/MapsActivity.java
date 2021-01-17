@@ -1,6 +1,7 @@
 package com.cerendo.splashscreentutorial;
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.util.Log;
@@ -103,5 +104,10 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     "Location cannot be obtained due to missing permission.", Toast.LENGTH_LONG).show();
 
         }
+    }
+
+    public void onClickMenuSearch(View view) {
+        Intent intent = new Intent(MapsActivity.this, DatabaseSearch.class);
+        startActivity(intent);
     }
 }
