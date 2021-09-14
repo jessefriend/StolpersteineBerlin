@@ -5,6 +5,9 @@ A personal Google Maps API key needs to be added in the Android Manifest to acce
 
 
 
-https://user-images.githubusercontent.com/35971997/133253308-525364bb-cee5-4c3f-9777-d75e64db17e4.mp4
+
+
+https://user-images.githubusercontent.com/35971997/133253402-f9b3ecc4-b922-40c9-aae9-1d9e3e624e53.mp4
+
 
 
